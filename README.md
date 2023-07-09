@@ -1,4 +1,11 @@
-### 👋 Hi there! Nice to meet you, I'm Rameez
+### 👋 Hi there! Nice to meet you, I'm Rameez!
+
+👨‍💼
+Welcome to my Profile! I'm Rameez, a senior data scientist with a background in software engineering. Currently, I work for a financial service institution, leveraging my expertise to drive data-driven decision-making. Previously, I worked with a European leasing organization, where I honed my skills as a software engineer.
+
+With a decade of experience, I'm deeply passionate about helping organizations break free from the "we've always done it this way" mentality. I firmly believe in the transformative power of data and artificial intelligence (AI) and how they can revolutionize industries. Moreover, I am particularly interested in the ethical considerations surrounding AI and its impact on society.
+
+In my pursuit of knowledge and growth, I am currently pursuing a Master's degree in Artificial Intelligence at the University of Bath, UK. This academic endeavor allows me to delve deeper into the intricacies of AI while also exploring the ethical dimensions associated with its implementation.
 
 <!--
 **contactrameezraja/contactrameezraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
