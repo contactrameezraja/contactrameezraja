@@ -4,17 +4,18 @@ Welcome to my Profile! I'm a senior data scientist with a background in software
 
 I'm currently pursuing a Master's degree in Artificial Intelligence at the University of Bath, UK, where I explore the intricacies of AI and delve into its ethical dimensions.
 
+- 🔭 I’m currently working on Algorthimic Fairness, Bias Detection and Explainable AI Frameworks
+- 💬 Ask me about Artficial Intelligence Fairness and Information Transparency
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I'm learning how to fly (PPL license)
+  
 <!--
 **contactrameezraja/contactrameezraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Algorthimic Fairness, Bias Detection and Explainable AI Frameworks
+- 💬 Ask me about Artficial Intelligence Fairness and Information Transparency
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I'm learning how to fly (PPL license)
 -->
