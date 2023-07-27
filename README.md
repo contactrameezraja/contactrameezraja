@@ -13,21 +13,6 @@ By exploring these topics, I aim to bridge the gap between cutting-edge AI resea
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm learning how to fly (PPL license)
 
- 
-GIF
-💼 any freelance work? do reach, email :)
-💬 ask me about anything, i am happy to help;
-languages and tools:
-
-         
-
-📊 this week i spent my time on:
-
-TypeScript   2 hrs 12 mins   ████████████████▓░░░░░░░░   66.17 %
-JavaScript   52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
-Bash         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-  
 <!--
 **contactrameezraja/contactrameezraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
