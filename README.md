@@ -4,7 +4,7 @@ Welcome to my Profile! I'm a senior data scientist with a background in software
 
 I'm currently pursuing a Master's degree in Artificial Intelligence, where I explore the intricacies of AI and delve into its ethical dimensions. In addition to my ongoing Master's degree, I am also actively preparing for my future academic endeavors. It is my plan to pursue a Ph.D. in either Computer Science or Data Science.
 
-During my Ph.D. program, I aim to contribute to the field by conducting in-depth research and developing novel approaches that address the challenges associated with democratizing AI technologies. This involves making AI more accessible, inclusive, and beneficial for all individuals and communities, while also ensuring transparency and accountability in AI systems. 
+During my Ph.D. program, I aim to contribute to the field by conducting in-depth research and developing novel approaches that address the challenges associated with Explainable AI and how we as a community can contribute to making AI more accessible, inclusive, and beneficial for all individuals, while also ensuring transparency and accountability in AI systems. 
 
 By exploring these topics, I aim to bridge the gap between cutting-edge AI research and real-world applications, ultimately working towards the responsible and ethical adoption of AI technologies across various industries. I believe that with the right approach, AI can serve as a powerful tool for positive societal change, and I am committed to contributing to this transformative field through my future academic pursuits one algorithm at a time :) 
 
