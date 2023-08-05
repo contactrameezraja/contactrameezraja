@@ -76,4 +76,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=contactrameezraja&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+<picture> <img align="right" src="https://github.com/contactrameezraja/contactrameezraja/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <br>
