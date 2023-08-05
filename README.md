@@ -19,13 +19,31 @@
   </ul>
 </div>
 
-## About me
+## Me Unveiled...Raw and Unfiltered
 	
-<pre>
-💻 I am a self taught Programmer and Software Developer
-📚 I have a 5 degrees including a Masters in Artificial Intelligence 
-📝 I am passionate about Explainable AI, Trusthworthy AI, Data Provenance and Data Science
-🔭 I'm currently working on creating transparent AI frameworks with the University of Bath ART.ai Lab
-😄 Pronouns: he/him/his
-⚡  Fun fact: I'm learning how to fly (PPL license)
-<div>
+ ```ruby
+ class Rameez < Person
+   def initialize
+     @name = 'Rameez Raja'
+     @age = 'NONE OF YOUR BUSINESS'
+     @work = [ 'Data Science', 'Software Development', 'Data Analytics', 'Visualization' ]
+     @education = [ 'Queen Mary University of London and UCL Alumni BS and MS Management', 'MS Artificial Intelligence', 'University of Bath' ]
+     @hobbies = [ 'Flying (PPL License)', 'Travelling', 'Reading' ]
+   end
+
+   def current_location
+     'Boston, MA, USA'
+   end
+
+   def next_locations
+     ['London, 'UK']
+ end
+
+   def currently
+     {
+       studying: [ 'MS Artificial Intelligence Uni of Bath' ],
+       interests: [ 'Explainable AI', 'Trustworthy AI', 'Data Provenance', 'Data Science' ],
+      }
+   end
+ end
+ ```   end
