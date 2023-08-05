@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>Hi there! Nice to meet you, I'm Rameez!
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=contactrameezraja&label=Profile%20views&color=0e75b6&style=flat" alt="contactrameezraja" /> </p>
 
