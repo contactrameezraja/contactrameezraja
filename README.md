@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Rameez)"
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-<a href="https://www.linkedin.com/in/rameezrajaucl/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>Hi there! Nice to meet you, I'm Rameez!
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=contactrameezraja&label=Profile%20views&color=0e75b6&style=flat" alt="contactrameezraja" /> </p>
 
