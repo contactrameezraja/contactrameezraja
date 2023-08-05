@@ -71,8 +71,8 @@
   </p>
 
 <br>
-
-<i>Coding Chuckle of the Day! (create your own by clicking here ↓)</i><br>
+<p align="center">
+<i>Dev Joke Spotlight! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
