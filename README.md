@@ -1,6 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>Hi there! Nice to meet you, I'm Rameez!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=contactrameezraja&label=Profile%20views&color=0e75b6&style=flat" alt="contactrameezraja" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=contactrameezraja&label=Profile%20views&color=0e75b6&style=flat" alt="contactrameezraja" /> </p>
 
 Welcome to my Profile! I'm a senior data scientist with a background in software engineering. Currently, I leverage my expertise in a financial service institution to drive data-driven decision-making. With a decade of experience, I'm passionate about breaking free from traditional approaches and harnessing the transformative power of data and artificial intelligence (AI) to revolutionize industries. Ethical considerations surrounding AI and its impact on society are particularly important to me. I truely believe in the power of education and championing change in the scientific community to the real world. 
 
