@@ -19,7 +19,7 @@
   </ul>
 </div>
 
-<h3>## Me Unveiled...Raw and Unfiltered</h3>
+<h3>Me Unveiled...Raw and Unfiltered</h3>
 	
  ```ruby
  class Rameez < Person
@@ -46,3 +46,16 @@
       }
    end
  end
+
+<br>
+
+### What I always play with
+<p> 
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" alt="rails-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
+</p>
