@@ -19,7 +19,7 @@
   </ul>
 </div>
 
-## Me Unveiled...Raw and Unfiltered
+<h3>## Me Unveiled...Raw and Unfiltered</h3>
 	
  ```ruby
  class Rameez < Person
