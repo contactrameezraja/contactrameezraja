@@ -27,7 +27,7 @@
      @name = 'Rameez Raja'
      @age = 'NONE OF YOUR BUSINESS'
      @work = [ 'Data Science', 'Software Development', 'Data Analytics', 'Visualization' ]
-     @education = [ 'Queen Mary University of London and UCL Alumni BS and MS Management', 'MS Artificial Intelligence', 'University of Bath' ]
+     @education = [ 'University College London' ]
      @hobbies = [ 'Flying (PPL License)', 'Travelling', 'Reading' ]
    end
 
@@ -46,4 +46,4 @@
       }
    end
  end
- ```   end
+
