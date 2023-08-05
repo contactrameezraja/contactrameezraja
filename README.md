@@ -28,4 +28,3 @@
 😄 Pronouns: he/him/his
 ⚡  Fun fact: I'm learning how to fly (PPL license)
 <div>
-'''
