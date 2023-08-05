@@ -60,6 +60,9 @@
 <br>
 
 ### Fast Facts About Me
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=contactrameezraja&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=contactrameezraja&show_icons=true&locale=en" alt="contactrameezraja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=contactrameezraja&" alt="contactrameezraja" /></p>
