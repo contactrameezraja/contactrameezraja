@@ -19,7 +19,7 @@
   </ul>
 </div>
 
-## About me?
+## About me
 	
 <pre>
 💻 I am a self taught Programmer and AI Developer
@@ -30,5 +30,3 @@
 ⚡ Fun fact: I'm learning how to fly (PPL license)
 <div>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/contactrameezraja/contactrameezraja/blob/output/github-contribution-grid-snake.svg)
