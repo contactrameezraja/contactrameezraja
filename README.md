@@ -46,7 +46,3 @@
       }
    end
  end
-
-<br>
-### What I always play with
-<p> 
