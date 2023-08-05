@@ -37,7 +37,7 @@
 
    def next_locations
      ['London, 'UK']
- end
+   end
 
    def currently
      {
