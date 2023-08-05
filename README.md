@@ -27,6 +27,6 @@
 📝 I am passionate about Explainable AI, Trusthworthy AI, Data Provenance, Data Science, Computing for Social Good
 🔭 I'm currently working on Machine Learning app development
 😄 Pronouns: he/him/his
-⚡ Fun fact: I'm learning how to fly (PPL license)
+⚡  Fun fact: I'm learning how to fly (PPL license)
 <div>
 
