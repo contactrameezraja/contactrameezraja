@@ -22,11 +22,10 @@
 ## About me
 	
 <pre>
-💻 I am a self taught Programmer and AI Developer
+💻 I am a self taught Programmer and Software Developer
 📚 I have a 5 degrees including a Masters in Artificial Intelligence 
-📝 I am passionate about Explainable AI, Trusthworthy AI, Data Provenance, Data Science, Computing for Social Good
-🔭 I'm currently working on Machine Learning app development
+📝 I am passionate about Explainable AI, Trusthworthy AI, Data Provenance and Data Science
+🔭 I'm currently working on creating transparent AI frameworks with the University of Bath ART.ai Lab
 😄 Pronouns: he/him/his
 ⚡  Fun fact: I'm learning how to fly (PPL license)
 <div>
-
