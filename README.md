@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/contactrameezraja/contactrameezraja/raw/main/assets/github.gif" alt="Hi, I'm Rameez 👋 I'm a 🚀 data scientist and software engineer 🚀">
-</p>
-
-# 👋 &nbsp;Hi there
-
 </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>Hi there! Nice to meet you, I'm Rameez!
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=contactrameezraja&label=Profile%20views&color=0e75b6&style=flat" alt="contactrameezraja" /> </p>
 
