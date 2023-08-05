@@ -2,13 +2,6 @@
   <img src="https://github.com/contactrameezraja/contactrameezraja/raw/main/assets/github.gif" alt="Hi, I'm Rameez 👋 I'm a 🚀 data scientist and software engineer 🚀">
 </p>
 
-<!--
-How to make this gif ?
-
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 # 👋 &nbsp;Hi there
 
 </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>Hi there! Nice to meet you, I'm Rameez!
