@@ -25,7 +25,7 @@
  class Rameez < Person
    def initialize
      @name = 'Rameez Raja'
-     @age = 'NONE OF YOUR BUSINESS'
+     @age = 'That's for me to know ;) '
      @work = [ 'Data Science', 'Software Development', 'Data Analytics', 'Visualization' ]
      @education = [ 'University College London' ]
      @hobbies = [ 'Flying (PPL License)', 'Travelling', 'Reading' ]
