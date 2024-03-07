@@ -10,7 +10,7 @@
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-	https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+	src="https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg"
 </div>
 
 
